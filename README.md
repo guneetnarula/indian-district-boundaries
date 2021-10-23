@@ -1,7 +1,7 @@
 # indian-district-boundaries
 Districts of India
 
-Geojson and topojsons in the repo are primariy for visualization purposes. All districts recognized by the government of India in 2019 are available, except Saitual, Mizoram
+Geojson and topojsons in the repo are primarily for visualization purposes. All districts recognized by the government of India in 2019 are available, except Saitual, Mizoram
 
 Note that district names are as per Registrar General of India. These names have some issues/mistakes. An alternate set of JSONs is WIP that has more common/local names.
 
